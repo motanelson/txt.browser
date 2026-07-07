@@ -1,1 +1,1 @@
-game struture
+text browser a command line browser
